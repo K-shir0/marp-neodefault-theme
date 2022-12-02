@@ -1,0 +1,28 @@
+/**
+* @theme neodefault
+**/
+@import-theme "default";
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+section.section-header {
+  text-align: center;
+}
+section.title-and-body {
+  justify-content: normal;
+}
+
+/*# sourceMappingURL=neodefault.css.map */
